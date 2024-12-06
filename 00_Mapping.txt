@@ -1,0 +1,11 @@
+Project.Portfolio=>TextPreProcessing
+
+maps to
+
+Course: 
+
+Complete Guide to Building, Deploying, and Optimizing Generative AI with Langchain and Huggingface by Krish Naik
+
+Chapter: 
+
+Section 10-Machine Learning for NLP
